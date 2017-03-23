@@ -4,8 +4,8 @@ public class BGBean {
 	int r, g, b;
 
 	public BGBean() {
-		r = 0;
-		g = 255;
+		r = 255;
+		g = 0;
 		b = 0;
 	}
 
